@@ -1,0 +1,42 @@
+{
+  "identifier" : "Growlogbonsai",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "GROWLOGBONSAIGROUP",
+      "localizations" : [],
+      "name" : "Growlog Bonsai Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "growlogbonsai_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Photo timeline per tree and multi-tree collection view",
+              "displayName" : "Growlog Bonsai Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.growlogbonsai.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Growlog Bonsai Pro Monthly",
+          "subscriptionGroupID" : "GROWLOGBONSAIGROUP",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
